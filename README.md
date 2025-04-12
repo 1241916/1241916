@@ -24,7 +24,9 @@
 </br>
 
 ## GitHub Stats 🌱​
-![](https://nirzak-streak-stats.vercel.app/?user=1241916&theme=radical&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=1241916&theme=radical&hide_border=true) [![Mariana's GitHub stats](https://github-readme-stats-nu-eight-74.vercel.app/api?username=1241916&show_icons=true&theme=radical&hide_border=true)](https://github.com/1241916/github-readme-stats)</br>
+
+![Top Langs](https://github-readme-stats-nu-eight-74.vercel.app/api/top-langs/?username=1241916&layout=compact&theme=radical&hide_border=true)
 
 
 
