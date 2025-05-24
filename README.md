@@ -2,7 +2,7 @@
 
 🧠​ SWitCH DEV student @ ISEP</br>
 📐 Architect and Urban Designer @ PUC-Rio </br>
-⚜️ MFA in Interior Design @ IED-Milano </br>
+⚜️ MFA in Interior Architecture @ IED-Milano </br>
 
 ​👾 Collecting video game consoles since 1994 </br>
 🍥 Making cosplays to scape reality since 2006 </br>
